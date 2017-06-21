@@ -1,0 +1,1713 @@
+[15-May-2015 13:26:07 America/New_York] =====Starting request: /pizza2/pizza/
+[15-May-2015 13:26:11 America/New_York] =====Starting request: /pizza2/pizza/
+[15-May-2015 13:26:25 America/New_York] =====Starting request: /pizza2/pizza/
+[15-May-2015 13:27:24 America/New_York] =====Starting request: /pizza2/pizza/
+[15-May-2015 13:27:26 America/New_York] =====Starting request: /pizza2/admin/
+[15-May-2015 13:27:28 America/New_York] =====Starting request: /pizza2/pizza/
+[15-May-2015 13:28:00 America/New_York] =====Starting request: /pizza2/admin/
+[15-May-2015 13:28:01 America/New_York] =====Starting request: /pizza2/admin/topping/
+[15-May-2015 13:28:01 America/New_York] in topping controller
+[15-May-2015 13:28:01 America/New_York] in topping controller, list
+[15-May-2015 13:28:02 America/New_York] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[15-May-2015 13:28:02 America/New_York] $_GET:action: show_add_form
+[15-May-2015 13:28:02 America/New_York] in topping controller
+[15-May-2015 13:28:10 America/New_York] =====Starting request: /pizza2/admin/topping/index.php
+[15-May-2015 13:28:10 America/New_York] $_POST:action: add_topping
+[15-May-2015 13:28:10 America/New_York] $_POST:topping_name: Pepperoni
+[15-May-2015 13:28:10 America/New_York] in topping controller
+[15-May-2015 13:28:10 America/New_York] in topping controller, add_t
+[15-May-2015 13:28:10 America/New_York] =====Starting request: /pizza2/admin/topping/
+[15-May-2015 13:28:10 America/New_York] in topping controller
+[15-May-2015 13:28:10 America/New_York] in topping controller, list
+[15-May-2015 13:28:14 America/New_York] =====Starting request: /pizza2/admin/
+[15-May-2015 13:28:15 America/New_York] =====Starting request: /pizza2/admin/size/
+[15-May-2015 13:28:16 America/New_York] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[15-May-2015 13:28:16 America/New_York] $_GET:action: show_add_form
+[15-May-2015 13:28:21 America/New_York] =====Starting request: /pizza2/admin/size/index.php
+[15-May-2015 13:28:21 America/New_York] $_POST:action: add_size
+[15-May-2015 13:28:21 America/New_York] $_POST:size_name: small
+[15-May-2015 13:28:21 America/New_York] =====Starting request: /pizza2/admin/size/
+[15-May-2015 13:28:23 America/New_York] =====Starting request: /pizza2/pizza/
+[15-May-2015 13:30:50 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[15-May-2015 13:30:50 America/New_York] $_GET:action: order_pizza
+[15-May-2015 13:30:50 America/New_York] $_GET:room: 1
+[15-May-2015 13:31:16 America/New_York] =====Starting request: /pizza2/pizza/
+[15-May-2015 13:31:17 America/New_York] =====Starting request: /pizza2/admin/size/
+[15-May-2015 13:31:19 America/New_York] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[15-May-2015 13:31:19 America/New_York] $_GET:action: show_add_form
+[15-May-2015 13:31:24 America/New_York] =====Starting request: /pizza2/admin/size/
+[15-May-2015 13:31:25 America/New_York] =====Starting request: /pizza2/admin/
+[15-May-2015 13:31:26 America/New_York] =====Starting request: /pizza2/admin/topping/
+[15-May-2015 13:31:26 America/New_York] in topping controller
+[15-May-2015 13:31:26 America/New_York] in topping controller, list
+[15-May-2015 13:31:27 America/New_York] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[15-May-2015 13:31:27 America/New_York] $_GET:action: show_add_form
+[15-May-2015 13:31:27 America/New_York] in topping controller
+[15-May-2015 13:31:28 America/New_York] =====Starting request: /pizza2/admin/topping/
+[15-May-2015 13:31:28 America/New_York] in topping controller
+[15-May-2015 13:31:28 America/New_York] in topping controller, list
+[15-May-2015 13:31:29 America/New_York] =====Starting request: /pizza2/admin/
+[15-May-2015 13:31:30 America/New_York] =====Starting request: /pizza2/pizza/
+[06-May-2016 01:41:05 Europe/Berlin] =====Starting request: /cs637/arshita/pizza2/index.php
+[06-May-2016 01:41:37 Europe/Berlin] =====Starting request: /cs637/arshita/pizza2/admin/
+[06-May-2016 01:41:38 Europe/Berlin] =====Starting request: /cs637/arshita/pizza2/admin/topping/
+[06-May-2016 01:41:41 Europe/Berlin] =====Starting request: /cs637/arshita/pizza2/
+[06-May-2016 01:53:55 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[06-May-2016 01:58:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[06-May-2016 01:58:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[06-May-2016 01:59:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[06-May-2016 01:59:33 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[06-May-2016 01:59:33 Europe/Berlin] ...... restclient: GET day
+[06-May-2016 01:59:33 Europe/Berlin] ...... restclient: GET product
+[06-May-2016 01:59:33 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 02:30:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[07-May-2016 02:30:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 02:30:51 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 02:30:51 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[07-May-2016 02:30:51 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 02:30:51 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 02:30:51 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 02:33:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 02:33:59 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 02:33:59 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[07-May-2016 02:33:59 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 02:33:59 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 02:33:59 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 02:33:59 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 02:34:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 02:34:37 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 02:34:37 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[07-May-2016 02:34:37 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 02:34:37 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 02:34:37 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 02:34:37 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 02:36:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 02:36:45 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 02:36:45 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[07-May-2016 02:36:45 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 02:36:45 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 02:36:45 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 02:36:45 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 02:37:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 02:37:29 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 02:37:29 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[07-May-2016 02:37:29 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 02:37:29 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 02:37:29 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 02:37:30 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 02:37:46 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 02:37:46 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 02:37:46 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[07-May-2016 02:37:46 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 02:37:46 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 02:37:46 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 02:37:46 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 02:40:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 02:40:31 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 02:40:31 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[07-May-2016 02:40:31 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 02:40:31 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 02:40:31 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 02:40:31 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 02:54:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 02:54:38 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 02:54:38 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[07-May-2016 02:54:38 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 02:54:38 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 02:54:38 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 02:54:38 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 02:58:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 02:58:09 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 02:58:09 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[07-May-2016 02:58:09 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 02:58:09 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 02:58:09 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 02:58:09 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 03:09:55 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 03:09:55 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 03:09:55 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[07-May-2016 03:09:55 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 03:09:55 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 03:09:55 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 03:09:55 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 03:11:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 03:11:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 03:11:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 03:45:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 03:45:28 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 03:45:28 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 03:45:28 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 03:45:28 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 03:45:28 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 04:06:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 04:06:26 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 04:06:27 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 04:06:27 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 04:06:27 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 04:06:27 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 04:06:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 04:06:33 Europe/Berlin] $_POST:action: change_to_nextday
+[07-May-2016 04:06:33 Europe/Berlin] rest server in handle_get_day, day = 2
+[07-May-2016 04:06:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 04:06:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 04:06:37 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 04:06:37 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 04:06:37 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 04:06:37 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 04:06:38 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 05:36:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 05:36:34 Europe/Berlin] $_POST:action: change_to_nextday
+[07-May-2016 05:36:35 Europe/Berlin] PHP Notice:  Undefined variable: day in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 47
+[07-May-2016 05:36:35 Europe/Berlin] rest server in handle_get_day, day = 
+[07-May-2016 05:36:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 05:50:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 05:50:52 Europe/Berlin] $_POST:action: change_to_nextday
+[07-May-2016 05:50:52 Europe/Berlin] rest server in handle_get_day, day = 5
+[07-May-2016 05:50:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 05:51:04 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 05:51:04 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 05:51:04 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 05:56:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 05:56:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 05:56:52 Europe/Berlin] $_POST:action: change_to_nextday
+[07-May-2016 05:56:52 Europe/Berlin] rest server in handle_get_day, day = 2
+[07-May-2016 05:56:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 06:04:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[07-May-2016 17:48:00 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[07-May-2016 17:48:04 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 17:48:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 17:48:07 Europe/Berlin] PHP Fatal error:  Call to undefined function get_inventory() in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 18
+[07-May-2016 17:48:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 17:48:48 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 17:48:48 Europe/Berlin] PHP Fatal error:  Call to undefined function get_inventory() in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 18
+[07-May-2016 17:49:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 17:55:13 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 17:55:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 53
+[07-May-2016 17:56:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 17:56:39 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 17:59:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 17:59:48 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/order/
+[07-May-2016 17:59:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 17:59:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 17:59:56 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 17:59:56 Europe/Berlin] $_GET:room: 1
+[07-May-2016 18:00:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[07-May-2016 18:00:05 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 18:00:05 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 18:00:05 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 18:00:05 Europe/Berlin] $_GET:room: 1
+[07-May-2016 18:00:05 Europe/Berlin] $_GET:n: 1
+[07-May-2016 18:00:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 18:00:06 Europe/Berlin] $_GET:room: 1
+[07-May-2016 18:00:40 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 18:00:40 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 18:00:40 Europe/Berlin] $_GET:room: 1
+[07-May-2016 18:00:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=2&n=2
+[07-May-2016 18:00:52 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 18:00:52 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 18:00:52 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 18:00:52 Europe/Berlin] $_GET:room: 2
+[07-May-2016 18:00:52 Europe/Berlin] $_GET:n: 2
+[07-May-2016 18:00:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=2
+[07-May-2016 18:00:52 Europe/Berlin] $_GET:room: 2
+[07-May-2016 18:02:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 18:02:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 18:02:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:02:18 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:06:01 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:06:01 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:09:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:12:46 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:12:46 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:06 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 52
+[07-May-2016 18:19:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 49
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 49
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 49
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 49
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 49
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:19:31 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 49
+[07-May-2016 18:33:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:33:17 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 46
+[07-May-2016 18:33:17 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:33:17 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:33:17 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 49
+[07-May-2016 18:33:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:33:20 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 46
+[07-May-2016 18:33:20 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:33:20 Europe/Berlin] PHP Warning:  Illegal string offset 'productname' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 48
+[07-May-2016 18:33:20 Europe/Berlin] PHP Warning:  Illegal string offset 'quantity' in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 49
+[07-May-2016 18:33:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:34:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:34:18 Europe/Berlin] PHP Notice:  Undefined index: productname in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 46
+[07-May-2016 18:34:18 Europe/Berlin] PHP Notice:  Undefined index: quantity in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\day_list.php on line 47
+[07-May-2016 18:34:40 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:35:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:35:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:35:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:36:43 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 18:50:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:23:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:23:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 19:23:39 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 19:23:39 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 19:23:39 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:23:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=2
+[07-May-2016 19:23:49 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 19:23:49 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 19:23:49 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 19:23:49 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:23:49 Europe/Berlin] $_GET:n: 2
+[07-May-2016 19:23:49 Europe/Berlin] PHP Fatal error:  Call to undefined function get_inventory() in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\pizza\index.php on line 51
+[07-May-2016 19:25:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=2
+[07-May-2016 19:25:18 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 19:25:18 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 19:25:18 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 19:25:18 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:25:18 Europe/Berlin] $_GET:n: 2
+[07-May-2016 19:26:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=2
+[07-May-2016 19:26:49 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 19:26:49 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 19:26:49 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 19:26:49 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:26:49 Europe/Berlin] $_GET:n: 2
+[07-May-2016 19:26:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 19:26:50 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:26:54 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 19:26:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 19:26:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:28:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:28:24 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 19:28:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:31:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:31:16 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 19:31:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:31:19 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:31:19 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 19:31:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:32:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:32:10 Europe/Berlin] $_POST:action: change_to_nextday
+[07-May-2016 19:32:10 Europe/Berlin] rest server in handle_get_day, day = 2
+[07-May-2016 19:32:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:32:13 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:32:13 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 19:32:13 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:32:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:32:17 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 19:32:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:32:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:33:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[07-May-2016 19:33:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 19:33:22 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:33:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:33:27 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 19:33:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:34:36 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:34:36 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 19:34:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:34:54 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 19:34:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 19:34:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 19:34:58 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 19:34:58 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:35:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=2
+[07-May-2016 19:35:06 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 19:35:06 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 19:35:06 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 19:35:06 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:35:06 Europe/Berlin] $_GET:n: 2
+[07-May-2016 19:35:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 19:35:07 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:35:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 19:35:12 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 19:35:13 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:41:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 19:41:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 19:41:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:41:13 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:41:13 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 19:41:13 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:41:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 19:41:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 19:41:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 19:41:20 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 19:41:20 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:41:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=3
+[07-May-2016 19:41:29 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 19:41:29 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 19:41:29 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 19:41:29 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:41:29 Europe/Berlin] $_GET:n: 3
+[07-May-2016 19:41:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 19:41:29 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:41:32 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 19:41:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 19:41:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:41:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:41:59 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 19:42:00 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:42:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:42:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 19:42:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 19:42:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 19:42:53 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 19:42:53 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 19:42:53 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:43:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=5
+[07-May-2016 19:43:02 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 19:43:02 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 19:43:02 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 19:43:02 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:43:02 Europe/Berlin] $_GET:n: 5
+[07-May-2016 19:43:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 19:43:03 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:43:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 19:43:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 19:43:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:43:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 19:43:49 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 19:43:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:45:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 19:45:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 19:45:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 19:45:32 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 19:45:32 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 19:45:32 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:45:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=6
+[07-May-2016 19:45:42 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 19:45:42 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 19:45:42 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 19:45:42 Europe/Berlin] $_GET:room: 1
+[07-May-2016 19:45:42 Europe/Berlin] $_GET:n: 6
+[07-May-2016 19:45:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 19:45:42 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:08:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 20:08:54 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 20:08:54 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 20:08:54 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:09:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 20:09:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 20:09:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 20:21:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 20:21:27 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 20:21:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 20:22:41 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 20:22:41 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 20:22:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 20:23:01 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 20:23:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 20:23:03 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 20:23:03 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:23:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[07-May-2016 20:23:10 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 20:23:10 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 20:23:10 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 20:23:10 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:23:10 Europe/Berlin] $_GET:n: 1
+[07-May-2016 20:23:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 20:23:11 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:23:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 20:23:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 20:23:21 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/order/
+[07-May-2016 20:23:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 20:23:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 20:50:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 20:50:54 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 20:50:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 20:50:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 20:51:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 20:51:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 20:51:07 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 20:51:07 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:51:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=7
+[07-May-2016 20:51:15 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 20:51:15 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 20:51:15 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 20:51:15 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:51:15 Europe/Berlin] $_GET:n: 7
+[07-May-2016 20:51:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 20:51:33 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 20:51:33 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:51:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 20:51:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 20:51:40 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 20:51:41 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 20:51:43 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 20:52:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 20:52:05 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 20:52:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 20:52:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 20:52:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 20:52:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php
+[07-May-2016 20:52:27 Europe/Berlin] $_POST:action: select_room
+[07-May-2016 20:52:27 Europe/Berlin] $_POST:room: 1
+[07-May-2016 20:52:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[07-May-2016 20:52:29 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 20:52:29 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:52:41 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=7
+[07-May-2016 20:52:41 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 20:52:41 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 20:52:41 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 20:52:41 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:52:41 Europe/Berlin] $_GET:n: 7
+[07-May-2016 20:54:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[07-May-2016 20:54:38 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 20:54:38 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:54:41 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=7
+[07-May-2016 20:54:41 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 20:54:41 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 20:54:41 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 20:54:41 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:54:41 Europe/Berlin] $_GET:n: 7
+[07-May-2016 20:54:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 20:54:42 Europe/Berlin] $_GET:room: 1
+[07-May-2016 20:54:53 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=order_pizza&room=1
+[07-May-2016 20:54:53 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 20:54:53 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:01:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 21:01:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 21:01:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 21:01:32 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 21:01:32 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 21:01:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 21:01:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 21:01:46 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 21:01:46 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 21:01:46 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:01:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=7
+[07-May-2016 21:01:58 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 21:01:58 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 21:01:58 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 21:01:58 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:01:58 Europe/Berlin] $_GET:n: 7
+[07-May-2016 21:01:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 21:01:58 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:02:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 21:02:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 21:02:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 21:02:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 21:02:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 21:02:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 21:02:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 21:02:19 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/order/
+[07-May-2016 21:02:22 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 21:02:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[07-May-2016 21:02:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 21:02:27 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 21:02:27 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:02:36 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[07-May-2016 21:02:36 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 21:02:36 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 21:02:36 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 21:02:36 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:02:36 Europe/Berlin] $_GET:n: 1
+[07-May-2016 21:02:36 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 21:02:36 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:04:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 21:04:10 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 21:04:10 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:04:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=6
+[07-May-2016 21:04:16 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 21:04:16 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 21:04:16 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 21:04:16 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:04:16 Europe/Berlin] $_GET:n: 6
+[07-May-2016 21:04:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 21:04:16 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:04:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 21:04:50 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 21:04:50 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:05:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=7
+[07-May-2016 21:05:02 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 21:05:02 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 21:05:02 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 21:05:02 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:05:02 Europe/Berlin] $_GET:n: 7
+[07-May-2016 21:05:04 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 21:05:04 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 21:05:04 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:06:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=7
+[07-May-2016 21:06:59 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 21:06:59 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 21:06:59 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 21:06:59 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:06:59 Europe/Berlin] $_GET:n: 7
+[07-May-2016 21:06:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 21:06:59 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:07:04 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 21:07:04 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 21:07:04 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:07:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=5&n=7
+[07-May-2016 21:07:24 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 21:07:24 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 21:07:24 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 21:07:24 Europe/Berlin] $_GET:room: 5
+[07-May-2016 21:07:24 Europe/Berlin] $_GET:n: 7
+[07-May-2016 21:07:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=5
+[07-May-2016 21:07:24 Europe/Berlin] $_GET:room: 5
+[07-May-2016 21:07:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 21:07:35 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 21:07:35 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:07:40 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=7
+[07-May-2016 21:07:40 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 21:07:40 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 21:07:40 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 21:07:40 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:07:40 Europe/Berlin] $_GET:n: 7
+[07-May-2016 21:07:40 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[07-May-2016 21:07:40 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:10:55 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 21:10:55 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 21:10:55 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:11:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=7
+[07-May-2016 21:11:02 Europe/Berlin] $_GET:action: add_order
+[07-May-2016 21:11:02 Europe/Berlin] $_GET:pizza_size: 1
+[07-May-2016 21:11:02 Europe/Berlin] $_GET:pizza_topping: 1
+[07-May-2016 21:11:02 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:11:02 Europe/Berlin] $_GET:n: 7
+[07-May-2016 21:11:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[07-May-2016 21:11:05 Europe/Berlin] $_GET:action: order_pizza
+[07-May-2016 21:11:05 Europe/Berlin] $_GET:room: 1
+[07-May-2016 21:12:53 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 21:12:54 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 21:12:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 21:13:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[07-May-2016 21:21:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 21:21:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 21:57:01 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 21:57:01 Europe/Berlin] $_POST:action: change_to_nextday
+[07-May-2016 21:57:01 Europe/Berlin] rest server in handle_get_day, day = 2
+[07-May-2016 21:57:01 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 22:03:36 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:03:36 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:03:37 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:03:37 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:03:37 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:03:37 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:07:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:07:45 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:07:45 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:07:45 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:07:45 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:07:45 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:19:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:19:45 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:19:45 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:19:45 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:19:45 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:19:45 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:19:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:19:50 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:19:50 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:19:50 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:19:50 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:19:50 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:25:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:25:09 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:25:09 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:25:09 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:25:09 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:25:09 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:27:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:27:09 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:27:09 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:27:09 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:27:10 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:27:10 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:30:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:30:26 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:30:26 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:30:26 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:30:26 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:30:26 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:30:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:30:47 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:30:48 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:30:48 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:30:48 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:30:48 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:31:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:31:47 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:31:47 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:31:47 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:31:47 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:31:48 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:32:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:32:26 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:32:26 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:32:26 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:32:26 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:32:26 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:32:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:32:30 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:32:30 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:32:30 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:32:30 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:32:30 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 22:33:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 22:33:27 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 22:33:27 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 22:33:27 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 22:33:27 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 22:33:27 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 23:01:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 23:02:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 23:02:23 Europe/Berlin] $_POST:action: change_to_nextday
+[07-May-2016 23:02:23 Europe/Berlin] rest server in handle_get_day, day = 3
+[07-May-2016 23:02:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 23:02:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 23:02:34 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 23:02:34 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 23:02:34 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 23:02:34 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 23:02:34 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 23:06:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 23:06:18 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 23:06:18 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 23:06:18 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 23:06:18 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 23:06:18 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 23:25:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[07-May-2016 23:25:20 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[07-May-2016 23:25:20 Europe/Berlin] ...... restclient: GET day
+[07-May-2016 23:25:20 Europe/Berlin] ...... restclient: GET product
+[07-May-2016 23:25:20 Europe/Berlin] ...... restclient: POST product
+[07-May-2016 23:25:20 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[07-May-2016 23:37:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[07-May-2016 23:38:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[07-May-2016 23:38:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 23:38:05 Europe/Berlin] PHP Warning:  require(../../model/webservices_call.php): failed to open stream: No such file or directory in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[07-May-2016 23:38:05 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '../../model/webservices_call.php' (include_path='C:/xampp/htdocs/cs637/arshita/proj2/pizza2/') in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[07-May-2016 23:38:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 23:38:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 23:38:52 Europe/Berlin] $_POST:action: initial_db
+[07-May-2016 23:38:53 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 23:38:55 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 23:38:55 Europe/Berlin] $_POST:action: change_to_nextday
+[07-May-2016 23:38:55 Europe/Berlin] rest server in handle_get_day, day = 2
+[07-May-2016 23:38:55 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[07-May-2016 23:38:57 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[07-May-2016 23:38:57 Europe/Berlin] $_POST:action: change_to_nextday
+[07-May-2016 23:38:57 Europe/Berlin] rest server in handle_get_day, day = 3
+[07-May-2016 23:38:57 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 00:10:19 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 00:10:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 00:10:29 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 00:10:29 Europe/Berlin] PHP Fatal error:  Call to undefined function client_post_day() in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 34
+[08-May-2016 00:11:39 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 00:11:39 Europe/Berlin] PHP Warning:  require(../model/webservices_call.php): failed to open stream: No such file or directory in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 00:11:39 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '../model/webservices_call.php' (include_path='C:/xampp/htdocs/cs637/arshita/proj2/pizza2/') in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 00:13:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 00:13:47 Europe/Berlin] PHP Warning:  require(../model/webservices_call.php): failed to open stream: No such file or directory in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 00:13:47 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '../model/webservices_call.php' (include_path='C:/xampp/htdocs/cs637/arshita/proj2/pizza2/') in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 00:14:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 00:14:29 Europe/Berlin] PHP Warning:  require(../../model/webservices_call.php): failed to open stream: No such file or directory in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 00:14:29 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '../../model/webservices_call.php' (include_path='C:/xampp/htdocs/cs637/arshita/proj2/pizza2/') in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 01:30:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 01:30:09 Europe/Berlin] PHP Warning:  require(../../model/webservices_call.php): failed to open stream: No such file or directory in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 01:30:09 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '../../model/webservices_call.php' (include_path='C:/xampp/htdocs/cs637/arshita/proj2/pizza2/') in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 01:46:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 01:46:27 Europe/Berlin] PHP Warning:  require(../../resclient/webservices_call.php): failed to open stream: No such file or directory in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 01:46:27 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '../../resclient/webservices_call.php' (include_path='C:/xampp/htdocs/cs637/arshita/proj2/pizza2/') in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 01:46:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 01:46:30 Europe/Berlin] PHP Warning:  require(../../resclient/webservices_call.php): failed to open stream: No such file or directory in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 01:46:30 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '../../resclient/webservices_call.php' (include_path='C:/xampp/htdocs/cs637/arshita/proj2/pizza2/') in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 7
+[08-May-2016 01:46:41 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 01:46:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 01:46:44 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 01:46:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 01:47:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 01:47:02 Europe/Berlin] $_POST:action: initial_db
+[08-May-2016 01:47:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 02:36:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 02:36:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 02:36:14 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 02:36:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 02:36:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 02:36:31 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 02:36:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 02:52:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 02:52:42 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 02:52:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 18:55:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[08-May-2016 18:55:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[08-May-2016 18:55:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 18:55:41 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 18:55:41 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 19:04:40 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 19:04:46 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 19:04:46 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 19:08:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 19:08:40 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 19:08:40 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 19:18:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[08-May-2016 19:18:21 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[08-May-2016 19:18:22 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 19:18:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 19:18:26 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 19:19:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 19:20:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 19:20:02 Europe/Berlin] $_POST:action: initial_db
+[08-May-2016 19:20:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 19:24:53 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:24:53 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:24:53 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:24:53 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:24:54 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:24:54 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:25:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:25:02 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:25:03 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:25:03 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:25:03 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:25:03 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:25:19 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 19:25:19 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 19:25:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:25:27 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:25:27 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:25:27 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:25:27 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:25:27 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:25:36 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 19:25:54 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 19:25:54 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 19:25:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 19:26:00 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 19:26:00 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 19:26:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:26:07 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:26:07 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:26:07 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:26:07 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:26:07 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:26:12 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:26:12 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:26:13 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:26:13 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:26:13 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:26:13 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:26:32 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 19:26:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 19:26:35 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 19:27:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 19:27:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:27:26 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:27:26 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:27:26 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:27:26 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:27:26 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:27:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:27:27 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:27:27 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:27:27 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:27:27 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:27:27 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:32:00 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:32:00 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:32:00 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:32:00 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:32:00 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:32:00 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:32:12 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 19:32:12 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 19:32:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:32:16 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:32:16 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:32:16 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:32:16 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:32:16 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:33:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:33:38 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:33:39 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:33:39 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:33:39 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:33:39 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:48:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 19:48:41 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 19:48:41 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 19:55:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:55:24 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:55:25 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:55:25 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:55:25 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:55:25 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:55:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:55:44 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:55:44 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:55:44 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:55:44 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:55:44 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 19:59:43 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 19:59:43 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 19:59:43 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:59:43 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:59:43 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:59:43 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:00:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:00:26 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:00:26 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:00:26 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:00:26 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:00:26 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:01:41 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:01:41 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:01:41 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:01:41 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:01:41 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:01:41 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:01:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:01:44 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:01:44 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:01:45 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:01:45 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:01:45 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:03:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:03:07 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:03:07 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:03:07 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:03:07 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:03:07 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:03:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:03:34 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:03:34 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:03:34 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:03:34 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:03:34 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:04:40 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:04:40 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:04:40 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:04:40 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:04:40 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:04:40 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:05:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:05:05 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:05:05 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:05:05 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:05:05 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:05:05 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:05:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:05:44 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:05:44 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:05:44 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:05:44 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:05:44 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:05:55 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 20:05:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 20:05:58 Europe/Berlin] $_POST:action: initial_db
+[08-May-2016 20:05:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 20:06:00 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 20:06:00 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 20:06:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:06:15 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:06:15 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:06:15 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:06:15 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:06:15 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:09:13 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:09:13 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:09:13 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:09:13 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:09:13 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:09:13 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:09:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 20:09:32 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 20:09:32 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 20:09:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:09:45 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:09:45 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:09:45 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:09:45 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:09:45 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:29:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:29:34 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:29:34 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:29:34 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:29:34 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:29:34 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 20:29:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 20:29:47 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 20:29:47 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 20:29:47 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 20:29:47 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 20:29:47 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:01:57 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:01:57 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:01:57 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:01:57 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:01:57 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:01:57 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:04:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:04:18 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:04:18 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:04:18 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:04:18 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:04:18 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:05:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:05:30 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:05:30 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:05:30 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:05:30 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:05:30 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:06:21 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:06:21 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:06:21 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:06:21 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:06:21 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:06:21 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:06:32 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:06:32 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:06:32 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:06:32 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:06:32 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:06:32 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:07:54 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:07:54 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:07:55 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:07:55 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:07:55 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:07:55 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:08:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:08:25 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:08:26 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:08:26 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:08:26 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:08:26 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:12:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:12:35 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:12:35 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:12:35 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:12:35 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:12:35 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:13:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:13:47 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:13:47 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:13:47 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:13:47 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:13:47 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:17:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:17:44 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:17:45 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:17:45 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:17:45 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:17:45 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:18:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:18:16 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:18:16 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:18:16 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:18:16 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:18:16 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:37:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:37:06 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:37:06 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:37:06 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:37:06 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:37:06 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:37:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:37:33 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:37:33 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:37:33 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:37:33 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:37:33 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:38:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[08-May-2016 22:38:16 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[08-May-2016 22:38:16 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 22:38:16 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 22:38:16 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 22:38:16 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[08-May-2016 22:39:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[08-May-2016 22:39:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[08-May-2016 22:39:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 22:39:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 22:39:20 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 22:42:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 22:42:21 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 22:42:21 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 22:44:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 22:44:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 22:44:51 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 22:50:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 22:50:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 22:50:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 22:50:14 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:03:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:03:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:03:18 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:04:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:04:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:04:58 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:04:59 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/4
+[08-May-2016 23:04:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:11:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:11:35 Europe/Berlin] $_POST:action: initial_db
+[08-May-2016 23:11:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:14:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:14:17 Europe/Berlin] $_POST:action: initial_db
+[08-May-2016 23:14:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:14:22 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:14:22 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:14:22 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/5
+[08-May-2016 23:14:22 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:14:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:14:34 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:14:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:15:01 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:15:01 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:15:43 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:15:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:15:45 Europe/Berlin] $_POST:action: initial_db
+[08-May-2016 23:15:46 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:15:48 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:15:48 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:15:48 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/6
+[08-May-2016 23:15:48 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:15:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:15:58 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:27:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:27:21 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:27:21 Europe/Berlin] $_POST:action: initial_db
+[08-May-2016 23:27:22 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:27:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:27:24 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:27:24 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/7
+[08-May-2016 23:27:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:27:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:27:33 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:28:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:30:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:30:15 Europe/Berlin] $_POST:action: initial_db
+[08-May-2016 23:30:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:30:55 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:30:55 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:30:56 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/8
+[08-May-2016 23:30:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:37:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:37:42 Europe/Berlin] $_POST:action: initial_db
+[08-May-2016 23:37:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:37:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:37:44 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:37:45 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/9
+[08-May-2016 23:37:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[08-May-2016 23:57:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[08-May-2016 23:57:44 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2016 23:57:44 Europe/Berlin] PHP Notice:  Undefined variable: fqty in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 86
+[08-May-2016 23:57:44 Europe/Berlin] PHP Notice:  Undefined variable: cqty in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 86
+[09-May-2016 00:05:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:05:37 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:05:38 Europe/Berlin] PHP Notice:  Undefined variable: orderid in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 53
+[09-May-2016 00:05:38 Europe/Berlin] PHP Notice:  Undefined variable: fqty in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 86
+[09-May-2016 00:05:38 Europe/Berlin] PHP Notice:  Undefined variable: cqty in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 86
+[09-May-2016 00:11:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:11:22 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:11:22 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:11:22 Europe/Berlin] PHP Notice:  Undefined variable: orderid in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 53
+[09-May-2016 00:11:22 Europe/Berlin] PHP Notice:  Undefined variable: fqty in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 86
+[09-May-2016 00:11:22 Europe/Berlin] PHP Notice:  Undefined variable: cqty in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 86
+[09-May-2016 00:11:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:11:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:11:33 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 00:11:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:11:43 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:11:43 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:11:43 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/10
+[09-May-2016 00:11:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:11:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:11:47 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:11:48 Europe/Berlin] PHP Notice:  Undefined variable: fqty in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 86
+[09-May-2016 00:11:48 Europe/Berlin] PHP Notice:  Undefined variable: cqty in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 86
+[09-May-2016 00:15:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:15:21 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:15:21 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:15:21 Europe/Berlin] PHP Notice:  Undefined variable: orderid in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 53
+[09-May-2016 00:16:04 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:16:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:16:06 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:49:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:49:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 00:49:39 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 00:49:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 00:49:43 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 00:49:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 00:49:46 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/order/
+[09-May-2016 00:49:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 00:49:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 00:49:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:49:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:49:56 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 00:49:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:50:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 00:50:12 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 00:50:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:50:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:50:18 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:50:18 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/11
+[09-May-2016 00:50:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:50:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:50:24 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:54:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:54:54 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:54:54 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 00:54:54 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:54:57 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:54:57 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:54:58 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/12
+[09-May-2016 00:54:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:55:00 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:55:00 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:56:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:56:04 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:56:04 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:56:04 Europe/Berlin] PHP Notice:  Undefined variable: order in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 94
+[09-May-2016 00:56:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:56:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:56:10 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 00:56:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:56:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:56:15 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:56:15 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/13
+[09-May-2016 00:56:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:56:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 00:56:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 00:56:27 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 00:56:27 Europe/Berlin] $_GET:room: 1
+[09-May-2016 00:56:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=12
+[09-May-2016 00:56:37 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 00:56:37 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 00:56:37 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 00:56:37 Europe/Berlin] $_GET:room: 1
+[09-May-2016 00:56:37 Europe/Berlin] $_GET:n: 12
+[09-May-2016 00:56:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[09-May-2016 00:56:38 Europe/Berlin] $_GET:room: 1
+[09-May-2016 00:56:40 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 00:56:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 00:56:43 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:56:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:56:51 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:56:51 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/14
+[09-May-2016 00:56:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:57:00 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:57:00 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:57:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:57:08 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 00:57:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 00:57:10 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 00:57:10 Europe/Berlin] $_GET:room: 1
+[09-May-2016 00:57:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=50
+[09-May-2016 00:57:17 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 00:57:17 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 00:57:17 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 00:57:17 Europe/Berlin] $_GET:room: 1
+[09-May-2016 00:57:17 Europe/Berlin] $_GET:n: 50
+[09-May-2016 00:57:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=50
+[09-May-2016 00:57:17 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 00:57:17 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 00:57:17 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 00:57:17 Europe/Berlin] $_GET:room: 1
+[09-May-2016 00:57:17 Europe/Berlin] $_GET:n: 50
+[09-May-2016 00:57:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[09-May-2016 00:57:23 Europe/Berlin] $_GET:room: 1
+[09-May-2016 00:57:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 00:57:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 00:57:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 00:57:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:57:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:57:33 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:57:33 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/15
+[09-May-2016 00:57:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:57:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:57:47 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:58:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:59:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 00:59:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 00:59:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/size/
+[09-May-2016 00:59:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 00:59:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 00:59:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:59:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:59:31 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 00:59:32 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 00:59:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 00:59:35 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 00:59:35 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/16
+[09-May-2016 00:59:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:00:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:00:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:00:07 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:00:07 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:00:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=4&n=50
+[09-May-2016 01:00:20 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 01:00:20 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 01:00:20 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 01:00:20 Europe/Berlin] $_GET:room: 4
+[09-May-2016 01:00:20 Europe/Berlin] $_GET:n: 50
+[09-May-2016 01:00:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=4
+[09-May-2016 01:00:23 Europe/Berlin] $_GET:room: 4
+[09-May-2016 01:00:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:00:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:00:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:00:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:00:51 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:00:52 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/17
+[09-May-2016 01:00:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:01:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:01:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:01:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:01:51 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:01:51 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:02:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=6&n=40
+[09-May-2016 01:02:03 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 01:02:03 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 01:02:03 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 01:02:03 Europe/Berlin] $_GET:room: 6
+[09-May-2016 01:02:03 Europe/Berlin] $_GET:n: 40
+[09-May-2016 01:02:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=6
+[09-May-2016 01:02:06 Europe/Berlin] $_GET:room: 6
+[09-May-2016 01:02:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:02:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:02:13 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:02:46 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:02:46 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:02:46 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/18
+[09-May-2016 01:02:46 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:03:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:03:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:03:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:03:06 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:03:06 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:03:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=10&n=40
+[09-May-2016 01:03:23 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 01:03:23 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 01:03:23 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 01:03:23 Europe/Berlin] $_GET:room: 10
+[09-May-2016 01:03:23 Europe/Berlin] $_GET:n: 40
+[09-May-2016 01:03:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=10
+[09-May-2016 01:03:27 Europe/Berlin] $_GET:room: 10
+[09-May-2016 01:03:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:03:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:03:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:03:46 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:03:48 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:03:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:03:52 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:03:52 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:04:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=4&n=50
+[09-May-2016 01:04:03 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 01:04:03 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 01:04:03 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 01:04:03 Europe/Berlin] $_GET:room: 4
+[09-May-2016 01:04:03 Europe/Berlin] $_GET:n: 50
+[09-May-2016 01:04:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:04:07 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:04:07 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:04:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=4&n=30
+[09-May-2016 01:04:18 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 01:04:18 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 01:04:18 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 01:04:18 Europe/Berlin] $_GET:room: 4
+[09-May-2016 01:04:18 Europe/Berlin] $_GET:n: 30
+[09-May-2016 01:04:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=4
+[09-May-2016 01:04:20 Europe/Berlin] $_GET:room: 4
+[09-May-2016 01:04:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:04:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[09-May-2016 01:04:47 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[09-May-2016 01:04:47 Europe/Berlin] ...... restclient: GET day
+[09-May-2016 01:04:48 Europe/Berlin] ...... restclient: GET product
+[09-May-2016 01:04:48 Europe/Berlin] ...... restclient: POST product
+[09-May-2016 01:04:48 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[09-May-2016 01:04:57 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:04:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:05:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:05:17 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:05:18 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/19
+[09-May-2016 01:05:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:05:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:05:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:05:35 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:05:35 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:05:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=100
+[09-May-2016 01:05:45 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 01:05:45 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 01:05:45 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 01:05:45 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:05:45 Europe/Berlin] $_GET:n: 100
+[09-May-2016 01:05:48 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:05:48 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:05:48 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:05:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:05:55 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:05:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:06:00 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:06:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:06:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:06:05 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:06:05 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:06:12 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=80
+[09-May-2016 01:06:12 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 01:06:12 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 01:06:12 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 01:06:12 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:06:12 Europe/Berlin] $_GET:n: 80
+[09-May-2016 01:06:19 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[09-May-2016 01:06:19 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:06:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:06:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:06:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:06:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:06:50 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:06:50 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/20
+[09-May-2016 01:06:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:07:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:07:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:07:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:07:12 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/order/
+[09-May-2016 01:07:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:07:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:07:22 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/order/
+[09-May-2016 01:07:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:07:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:07:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:07:27 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:07:27 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:07:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=60
+[09-May-2016 01:07:37 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 01:07:37 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 01:07:37 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 01:07:37 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:07:37 Europe/Berlin] $_GET:n: 60
+[09-May-2016 01:07:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[09-May-2016 01:07:42 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:07:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:07:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:07:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:07:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:07:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/order/
+[09-May-2016 01:08:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:14:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[09-May-2016 01:14:30 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[09-May-2016 01:14:30 Europe/Berlin] ...... restclient: GET day
+[09-May-2016 01:14:30 Europe/Berlin] ...... restclient: GET product
+[09-May-2016 01:14:31 Europe/Berlin] ...... restclient: POST product
+[09-May-2016 01:14:31 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[09-May-2016 01:16:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:16:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:16:08 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:16:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:16:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:16:11 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 01:16:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:16:13 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:16:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:16:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:16:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:16:19 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:16:21 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:16:22 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:16:22 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:16:23 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/21
+[09-May-2016 01:16:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:16:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:16:36 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:16:39 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/order/
+[09-May-2016 01:16:41 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:16:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:16:42 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:16:42 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:16:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=4&n=40
+[09-May-2016 01:16:58 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 01:16:58 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 01:16:58 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 01:16:58 Europe/Berlin] $_GET:room: 4
+[09-May-2016 01:16:58 Europe/Berlin] $_GET:n: 40
+[09-May-2016 01:17:01 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=4
+[09-May-2016 01:17:01 Europe/Berlin] $_GET:room: 4
+[09-May-2016 01:17:08 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:17:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:17:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:17:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:17:14 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:17:15 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/22
+[09-May-2016 01:17:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:17:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:18:04 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:18:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:18:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:18:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:18:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:18:26 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:18:26 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:18:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:18:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:18:30 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 01:18:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:18:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:18:33 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 01:18:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:18:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:18:34 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 01:18:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:18:34 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 01:18:34 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:18:34 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 01:18:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:18:35 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 01:18:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:18:35 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 01:18:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:18:35 Europe/Berlin] $_POST:action: initial_db
+[09-May-2016 01:18:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:19:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:24:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[09-May-2016 01:24:35 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[09-May-2016 01:24:35 Europe/Berlin] ...... restclient: GET day
+[09-May-2016 01:24:35 Europe/Berlin] ...... restclient: GET product
+[09-May-2016 01:24:35 Europe/Berlin] ...... restclient: POST product
+[09-May-2016 01:24:35 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[09-May-2016 01:31:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 01:31:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 01:31:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:31:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:31:14 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:31:15 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/23
+[09-May-2016 01:31:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:31:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:31:16 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:31:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:31:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:31:35 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:31:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:31:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:31:58 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:31:58 Europe/Berlin] PHP Notice:  Undefined variable: order in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 94
+[09-May-2016 01:32:00 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:32:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:32:03 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:32:03 Europe/Berlin] PHP Notice:  Undefined variable: order in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 94
+[09-May-2016 01:32:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:32:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:32:09 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:32:09 Europe/Berlin] PHP Notice:  Undefined variable: order in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 94
+[09-May-2016 01:32:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:32:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 01:32:28 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 01:32:29 Europe/Berlin] PHP Notice:  Undefined variable: order in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 94
+[09-May-2016 01:32:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 01:32:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 01:32:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:32:38 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:32:38 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:32:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[09-May-2016 01:32:50 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 01:32:50 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 01:32:50 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 01:32:50 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:32:50 Europe/Berlin] $_GET:n: 1
+[09-May-2016 01:32:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[09-May-2016 01:32:50 Europe/Berlin] $_GET:room: 1
+[09-May-2016 01:33:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 01:33:03 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 01:33:03 Europe/Berlin] $_GET:room: 1
+[09-May-2016 23:31:32 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[09-May-2016 23:31:35 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 23:31:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 23:31:39 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 23:31:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 23:31:42 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 23:31:42 Europe/Berlin] PHP Fatal error:  Call to undefined function curl_request_get_location() in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\restclient\webservices_call.php on line 43
+[09-May-2016 23:31:45 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 23:31:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[09-May-2016 23:31:53 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[09-May-2016 23:31:53 Europe/Berlin] $_GET:action: order_pizza
+[09-May-2016 23:31:53 Europe/Berlin] $_GET:room: 1
+[09-May-2016 23:32:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=3&n=5
+[09-May-2016 23:32:02 Europe/Berlin] $_GET:action: add_order
+[09-May-2016 23:32:02 Europe/Berlin] $_GET:pizza_size: 1
+[09-May-2016 23:32:02 Europe/Berlin] $_GET:pizza_topping: 1
+[09-May-2016 23:32:02 Europe/Berlin] $_GET:room: 3
+[09-May-2016 23:32:02 Europe/Berlin] $_GET:n: 5
+[09-May-2016 23:32:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=3
+[09-May-2016 23:32:03 Europe/Berlin] $_GET:room: 3
+[09-May-2016 23:32:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[09-May-2016 23:32:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[09-May-2016 23:32:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[09-May-2016 23:32:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[09-May-2016 23:32:09 Europe/Berlin] $_POST:action: change_to_nextday
+[09-May-2016 23:32:09 Europe/Berlin] PHP Fatal error:  Call to undefined function curl_request_get_location() in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\restclient\webservices_call.php on line 43
+[12-May-2016 17:43:42 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[12-May-2016 17:43:46 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[12-May-2016 17:43:50 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[12-May-2016 17:43:53 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[12-May-2016 17:43:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[12-May-2016 17:43:58 Europe/Berlin] $_POST:action: change_to_nextday
+[12-May-2016 17:43:58 Europe/Berlin] PHP Notice:  Undefined variable: order in C:\xampp\htdocs\cs637\arshita\proj2\pizza2\admin\day\index.php on line 94
+[12-May-2016 17:46:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[12-May-2016 17:46:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[12-May-2016 17:46:28 Europe/Berlin] $_POST:action: change_to_nextday
+[12-May-2016 17:46:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[12-May-2016 17:46:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[12-May-2016 17:46:30 Europe/Berlin] $_POST:action: change_to_nextday
+[12-May-2016 17:46:30 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[12-May-2016 17:47:47 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[12-May-2016 17:47:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[12-May-2016 17:47:51 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[12-May-2016 17:47:54 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[12-May-2016 17:47:54 Europe/Berlin] $_POST:action: initial_db
+[12-May-2016 17:47:55 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[12-May-2016 17:47:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[12-May-2016 17:47:59 Europe/Berlin] $_POST:action: change_to_nextday
+[12-May-2016 17:47:59 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/24
+[12-May-2016 17:47:59 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[12-May-2016 17:48:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[12-May-2016 17:48:02 Europe/Berlin] $_POST:action: change_to_nextday
+[12-May-2016 17:48:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[12-May-2016 17:58:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[12-May-2016 17:58:17 Europe/Berlin] $_POST:action: change_to_nextday
+[12-May-2016 17:58:17 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[12-May-2016 17:58:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[12-May-2016 17:58:20 Europe/Berlin] $_POST:action: change_to_nextday
+[12-May-2016 17:58:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[12-May-2016 17:58:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[12-May-2016 17:58:23 Europe/Berlin] $_POST:action: initial_db
+[12-May-2016 17:58:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[13-May-2016 04:37:49 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[13-May-2016 04:37:52 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[13-May-2016 04:37:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[13-May-2016 04:37:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[13-May-2016 04:37:58 Europe/Berlin] $_POST:action: change_to_nextday
+[13-May-2016 04:37:58 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/25
+[13-May-2016 04:37:58 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[13-May-2016 04:38:01 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[13-May-2016 04:38:01 Europe/Berlin] $_POST:action: initial_db
+[13-May-2016 04:38:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[13-May-2016 04:38:04 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/
+[13-May-2016 04:38:10 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?action=order_pizza&room=1
+[13-May-2016 04:38:10 Europe/Berlin] $_GET:action: order_pizza
+[13-May-2016 04:38:10 Europe/Berlin] $_GET:room: 1
+[13-May-2016 04:38:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=10
+[13-May-2016 04:38:18 Europe/Berlin] $_GET:action: add_order
+[13-May-2016 04:38:18 Europe/Berlin] $_GET:pizza_size: 1
+[13-May-2016 04:38:18 Europe/Berlin] $_GET:pizza_topping: 1
+[13-May-2016 04:38:18 Europe/Berlin] $_GET:room: 1
+[13-May-2016 04:38:18 Europe/Berlin] $_GET:n: 10
+[13-May-2016 04:38:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/pizza/?room=1
+[13-May-2016 04:38:20 Europe/Berlin] $_GET:room: 1
+[13-May-2016 04:38:22 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/
+[13-May-2016 04:38:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[13-May-2016 04:38:25 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[13-May-2016 04:48:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/restclient/index.php
+[13-May-2016 04:48:27 Europe/Berlin] ...... restclient: POST day = 3 to localhost/cs637/arshita/proj2/proj2_server/rest/day/
+[13-May-2016 04:48:27 Europe/Berlin] ...... restclient: GET day
+[13-May-2016 04:48:27 Europe/Berlin] ...... restclient: GET product
+[13-May-2016 04:48:27 Europe/Berlin] ...... restclient: POST product
+[13-May-2016 04:48:28 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[13-May-2016 05:14:55 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[13-May-2016 05:14:55 Europe/Berlin] $_POST:action: initial_db
+[13-May-2016 05:14:56 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[13-May-2016 19:37:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[13-May-2016 19:37:12 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[13-May-2016 19:37:12 Europe/Berlin] $_POST:action: initial_db
+[13-May-2016 19:37:13 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[13-May-2016 19:37:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[13-May-2016 19:37:15 Europe/Berlin] $_POST:action: change_to_nextday
+[13-May-2016 19:37:16 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/26
+[13-May-2016 19:37:16 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[13-May-2016 19:37:21 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[13-May-2016 19:37:21 Europe/Berlin] $_POST:action: change_to_nextday
+[13-May-2016 19:37:21 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[13-May-2016 19:37:28 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[13-May-2016 19:37:28 Europe/Berlin] $_POST:action: initial_db
+[13-May-2016 19:37:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[16-May-2016 23:25:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[16-May-2016 23:25:08 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[16-May-2016 23:25:09 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[16-May-2016 23:25:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[16-May-2016 23:25:14 Europe/Berlin] $_POST:action: change_to_nextday
+[16-May-2016 23:25:15 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/27
+[16-May-2016 23:25:15 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[16-May-2016 23:25:19 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[16-May-2016 23:25:19 Europe/Berlin] $_POST:action: initial_db
+[16-May-2016 23:25:20 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[16-May-2016 23:25:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[16-May-2016 23:25:23 Europe/Berlin] $_POST:action: change_to_nextday
+[16-May-2016 23:25:24 Europe/Berlin] Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/28
+[16-May-2016 23:25:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[16-May-2016 23:25:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/index.php
+[16-May-2016 23:25:27 Europe/Berlin] $_POST:action: change_to_nextday
+[16-May-2016 23:25:27 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/day/
+[05-Mar-2017 07:01:02 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/index.php
+[05-Mar-2017 07:01:06 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/
+[05-Mar-2017 07:01:08 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/topping/
+[05-Mar-2017 07:01:11 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/topping/?action=show_add_form
+[05-Mar-2017 07:01:11 Europe/Berlin] $_GET:action: show_add_form
+[05-Mar-2017 07:01:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/topping/index.php
+[05-Mar-2017 07:01:29 Europe/Berlin] $_POST:action: add_topping
+[05-Mar-2017 07:01:29 Europe/Berlin] $_POST:topping_name: Peppers
+[05-Mar-2017 07:01:29 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/topping/
+[05-Mar-2017 07:01:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/pizza2/admin/topping/?action=show_add_form
+[05-Mar-2017 07:01:33 Europe/Berlin] $_GET:action: show_add_form
+[21-Jun-2017 04:46:39 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/ubuntu/workspace/pizzatogo/pizza2/util/main.php on line 29
+[21-Jun-2017 04:46:39 UTC] =====Starting request: 
+[21-Jun-2017 04:46:39 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/ubuntu/workspace/pizzatogo/pizza2/util/main.php:29) in /home/ubuntu/workspace/pizzatogo/pizza2/util/main.php on line 50
+[21-Jun-2017 04:46:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ubuntu/workspace/pizzatogo/pizza2/util/main.php:29) in /home/ubuntu/workspace/pizzatogo/pizza2/util/main.php on line 50

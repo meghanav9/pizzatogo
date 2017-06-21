@@ -1,0 +1,38 @@
+[06-May-2016 01:59:04 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/index.php
+[06-May-2016 02:03:24 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/index.php
+[06-May-2016 02:03:31 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/catalog/?category_id=4
+[06-May-2016 02:03:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/catalog/?product_id=11
+[06-May-2016 02:04:33 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/catalog/?category_id=4
+[06-May-2016 02:04:38 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/catalog/?product_id=12
+[07-May-2016 02:29:18 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/index.php
+[07-May-2016 02:31:37 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/catalog/?category_id=4
+[07-May-2016 03:15:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/admin/
+[07-May-2016 03:15:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/admin/
+[07-May-2016 03:15:03 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/admin/account/
+[07-May-2016 03:15:14 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/
+[07-May-2016 03:15:19 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/catalog/?category_id=4
+[07-May-2016 03:15:21 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/catalog/?product_id=11
+[07-May-2016 03:15:41 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/catalog/?category_id=4
+[07-May-2016 03:15:44 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/catalog/?product_id=12
+[07-May-2016 06:04:05 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/catalog/?product_id=12
+[08-May-2016 19:20:23 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/restclient/index.php
+[08-May-2016 19:20:23 Europe/Berlin] ...... restclient: POST day = 3 to localhostproj2_server/rest/day/
+[08-May-2016 19:20:25 Europe/Berlin] error in client_post_dayCurl error: Could not resolve host: localhostproj2_server
+[08-May-2016 19:20:25 Europe/Berlin] ...... restclient: GET day
+[08-May-2016 19:20:26 Europe/Berlin] ...... restclient: GET product
+[08-May-2016 19:20:28 Europe/Berlin] ...... restclient: POST product
+[08-May-2016 19:20:29 Europe/Berlin] error in client_post_productCurl error: Could not resolve host: localhostproj2_server
+[09-May-2016 01:15:07 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/restclient/
+[09-May-2016 01:15:07 Europe/Berlin] ...... restclient: POST day = 3 to localhostproj2_server/rest/day/
+[09-May-2016 01:15:09 Europe/Berlin] error in client_post_dayCurl error: Could not resolve host: localhostproj2_server
+[09-May-2016 01:15:09 Europe/Berlin] ...... restclient: GET day
+[09-May-2016 01:15:10 Europe/Berlin] ...... restclient: GET product
+[09-May-2016 01:15:12 Europe/Berlin] ...... restclient: POST product
+[09-May-2016 01:15:13 Europe/Berlin] error in client_post_productCurl error: Could not resolve host: localhostproj2_server
+[09-May-2016 01:15:48 Europe/Berlin] =====Starting request: /cs637/arshita/proj2/proj2_server/restclient/
+[09-May-2016 01:15:48 Europe/Berlin] ...... restclient: POST day = 3 to localhostproj2_server/rest/day/
+[09-May-2016 01:15:50 Europe/Berlin] error in client_post_dayCurl error: Could not resolve host: localhostproj2_server
+[09-May-2016 01:15:50 Europe/Berlin] ...... restclient: GET day
+[09-May-2016 01:15:51 Europe/Berlin] ...... restclient: GET product
+[09-May-2016 01:15:53 Europe/Berlin] ...... restclient: POST product
+[09-May-2016 01:15:54 Europe/Berlin] error in client_post_productCurl error: Could not resolve host: localhostproj2_server

@@ -1,0 +1,439 @@
+[09-May-2016 00:54:57 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 00:54:57 Europe/Berlin] request at case day
+[09-May-2016 00:54:57 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 00:54:57 Europe/Berlin] Server saw POSTed day = 2
+[09-May-2016 00:54:57 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 00:54:57 Europe/Berlin] request at case orders
+[09-May-2016 00:54:57 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":60}]}
+[09-May-2016 00:54:57 Europe/Berlin] today2
+[09-May-2016 00:54:58 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 00:54:58 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 00:54:58 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/12
+[09-May-2016 00:55:00 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 00:55:00 Europe/Berlin] request at case day
+[09-May-2016 00:55:00 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 00:55:00 Europe/Berlin] Server saw POSTed day = 3
+[09-May-2016 00:55:00 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/12
+[09-May-2016 00:55:00 Europe/Berlin] request at case orders
+[09-May-2016 00:55:00 Europe/Berlin] hi from handle_get_product
+[09-May-2016 00:55:00 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 00:55:00 Europe/Berlin] request at case orders
+[09-May-2016 00:55:00 Europe/Berlin] Server saw post data[{"customerID":"1","orderID":"12","delivered":true},[]]
+[09-May-2016 00:55:00 Europe/Berlin] today3
+[09-May-2016 00:55:00 Europe/Berlin] PHP Notice:  Undefined index: customerID in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 156
+[09-May-2016 00:55:00 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[09-May-2016 00:56:04 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 00:56:04 Europe/Berlin] request at case day
+[09-May-2016 00:56:04 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 00:56:04 Europe/Berlin] Server saw POSTed day = 4
+[09-May-2016 00:56:04 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 00:56:04 Europe/Berlin] request at case orders
+[09-May-2016 00:56:04 Europe/Berlin] Server saw post datanull
+[09-May-2016 00:56:04 Europe/Berlin] today4
+[09-May-2016 00:56:04 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[09-May-2016 00:56:15 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 00:56:15 Europe/Berlin] request at case day
+[09-May-2016 00:56:15 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 00:56:15 Europe/Berlin] Server saw POSTed day = 2
+[09-May-2016 00:56:15 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 00:56:15 Europe/Berlin] request at case orders
+[09-May-2016 00:56:15 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":60}]}
+[09-May-2016 00:56:15 Europe/Berlin] today2
+[09-May-2016 00:56:15 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 00:56:15 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 00:56:15 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/13
+[09-May-2016 00:56:51 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 00:56:51 Europe/Berlin] request at case day
+[09-May-2016 00:56:51 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 00:56:51 Europe/Berlin] Server saw POSTed day = 3
+[09-May-2016 00:56:51 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/13
+[09-May-2016 00:56:51 Europe/Berlin] request at case orders
+[09-May-2016 00:56:51 Europe/Berlin] hi from handle_get_product
+[09-May-2016 00:56:51 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 00:56:51 Europe/Berlin] request at case orders
+[09-May-2016 00:56:51 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":0},{"productID":12,"quantity":20}]}
+[09-May-2016 00:56:51 Europe/Berlin] today3
+[09-May-2016 00:56:51 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 00:56:51 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 00:56:51 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/14
+[09-May-2016 00:57:00 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 00:57:01 Europe/Berlin] request at case day
+[09-May-2016 00:57:01 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 00:57:01 Europe/Berlin] Server saw POSTed day = 4
+[09-May-2016 00:57:01 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/14
+[09-May-2016 00:57:01 Europe/Berlin] request at case orders
+[09-May-2016 00:57:01 Europe/Berlin] hi from handle_get_product
+[09-May-2016 00:57:01 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 00:57:01 Europe/Berlin] request at case orders
+[09-May-2016 00:57:01 Europe/Berlin] Server saw post data[{"customerID":"1","orderID":"14","delivered":true},[]]
+[09-May-2016 00:57:01 Europe/Berlin] today4
+[09-May-2016 00:57:01 Europe/Berlin] PHP Notice:  Undefined index: customerID in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 156
+[09-May-2016 00:57:01 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[09-May-2016 00:57:33 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 00:57:33 Europe/Berlin] request at case day
+[09-May-2016 00:57:33 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 00:57:33 Europe/Berlin] Server saw POSTed day = 5
+[09-May-2016 00:57:33 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 00:57:33 Europe/Berlin] request at case orders
+[09-May-2016 00:57:33 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":120},{"productID":12,"quantity":100}]}
+[09-May-2016 00:57:33 Europe/Berlin] today5
+[09-May-2016 00:57:33 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 00:57:33 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 00:57:33 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/15
+[09-May-2016 00:57:47 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 00:57:47 Europe/Berlin] request at case day
+[09-May-2016 00:57:47 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 00:57:47 Europe/Berlin] Server saw POSTed day = 6
+[09-May-2016 00:57:47 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/15
+[09-May-2016 00:57:47 Europe/Berlin] request at case orders
+[09-May-2016 00:57:47 Europe/Berlin] hi from handle_get_product
+[09-May-2016 00:57:48 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 00:57:48 Europe/Berlin] request at case orders
+[09-May-2016 00:57:48 Europe/Berlin] Server saw post data[{"customerID":"1","orderID":"15","delivered":true},[]]
+[09-May-2016 00:57:48 Europe/Berlin] today6
+[09-May-2016 00:57:48 Europe/Berlin] PHP Notice:  Undefined index: customerID in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 156
+[09-May-2016 00:57:48 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[09-May-2016 00:59:35 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 00:59:35 Europe/Berlin] request at case day
+[09-May-2016 00:59:35 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 00:59:35 Europe/Berlin] Server saw POSTed day = 2
+[09-May-2016 00:59:35 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 00:59:35 Europe/Berlin] request at case orders
+[09-May-2016 00:59:35 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":60}]}
+[09-May-2016 00:59:35 Europe/Berlin] today2
+[09-May-2016 00:59:35 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 00:59:35 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 00:59:35 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/16
+[09-May-2016 01:00:51 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:00:51 Europe/Berlin] request at case day
+[09-May-2016 01:00:51 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:00:51 Europe/Berlin] Server saw POSTed day = 3
+[09-May-2016 01:00:51 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/16
+[09-May-2016 01:00:51 Europe/Berlin] request at case orders
+[09-May-2016 01:00:51 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:00:51 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:00:51 Europe/Berlin] request at case orders
+[09-May-2016 01:00:51 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":40},{"productID":12,"quantity":40}]}
+[09-May-2016 01:00:51 Europe/Berlin] today3
+[09-May-2016 01:00:52 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:00:52 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:00:52 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/17
+[09-May-2016 01:02:46 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:02:46 Europe/Berlin] request at case day
+[09-May-2016 01:02:46 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:02:46 Europe/Berlin] Server saw POSTed day = 4
+[09-May-2016 01:02:46 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/17
+[09-May-2016 01:02:46 Europe/Berlin] request at case orders
+[09-May-2016 01:02:46 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:02:46 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:02:46 Europe/Berlin] request at case orders
+[09-May-2016 01:02:46 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":40},{"productID":12,"quantity":40}]}
+[09-May-2016 01:02:46 Europe/Berlin] today4
+[09-May-2016 01:02:46 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:02:46 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:02:46 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/18
+[09-May-2016 01:04:47 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:04:47 Europe/Berlin] request at case day
+[09-May-2016 01:04:47 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:04:47 Europe/Berlin] Server saw POSTed day = 8
+[09-May-2016 01:04:47 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/day/
+[09-May-2016 01:04:47 Europe/Berlin] request at case day
+[09-May-2016 01:04:47 Europe/Berlin] rest server in handle_get_day, day = 8
+[09-May-2016 01:04:48 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/products/1
+[09-May-2016 01:04:48 Europe/Berlin] request at case product
+[09-May-2016 01:04:48 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:04:48 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/products/
+[09-May-2016 01:04:48 Europe/Berlin] request at case product
+[09-May-2016 01:04:48 Europe/Berlin] Server saw post data{"productID":"1","categoryID":"1","productCode":"strat9","productName":"Fender Stratocaster","description":"The Fender Stratocaster is the electric guitar design that changed the world. New features include a tinted neck, parchment pickguard and control knobs, and a '70s-style logo. Includes select alder body, 21-fret maple neck with your choice of a rosewood or maple fretboard, 3 single-coil pickups, vintage-style tremolo, and die-cast tuning keys. This guitar features a thicker bridge block for increased sustain and a more stable point of contact with the strings. At this low price, why play anything but the real thing?\r\n\r\nFeatures:\r\n\r\n* New features:\r\n* Thicker bridge block\r\n* 3-ply parchment pick guard\r\n* Tinted neck","listPrice":"699.00","discountPercent":"30.00","dateAdded":"2009-10-30 09:32:40","categoryName":"Guitars"}
+[09-May-2016 01:04:48 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'strat9' for key 'productCode'
+[09-May-2016 01:05:17 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:05:17 Europe/Berlin] request at case day
+[09-May-2016 01:05:17 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:05:17 Europe/Berlin] Server saw POSTed day = 5
+[09-May-2016 01:05:17 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/17
+[09-May-2016 01:05:17 Europe/Berlin] request at case orders
+[09-May-2016 01:05:17 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:05:17 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/18
+[09-May-2016 01:05:17 Europe/Berlin] request at case orders
+[09-May-2016 01:05:17 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:05:18 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:05:18 Europe/Berlin] request at case orders
+[09-May-2016 01:05:18 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":80}]}
+[09-May-2016 01:05:18 Europe/Berlin] today5
+[09-May-2016 01:05:18 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:05:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:05:18 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/19
+[09-May-2016 01:06:50 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:06:50 Europe/Berlin] request at case day
+[09-May-2016 01:06:50 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:06:50 Europe/Berlin] Server saw POSTed day = 6
+[09-May-2016 01:06:50 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/19
+[09-May-2016 01:06:50 Europe/Berlin] request at case orders
+[09-May-2016 01:06:50 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:06:50 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:06:50 Europe/Berlin] request at case orders
+[09-May-2016 01:06:50 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":80}]}
+[09-May-2016 01:06:50 Europe/Berlin] today6
+[09-May-2016 01:06:50 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:06:50 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:06:50 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/20
+[09-May-2016 01:14:30 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:14:30 Europe/Berlin] request at case day
+[09-May-2016 01:14:30 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:14:30 Europe/Berlin] Server saw POSTed day = 8
+[09-May-2016 01:14:30 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/day/
+[09-May-2016 01:14:30 Europe/Berlin] request at case day
+[09-May-2016 01:14:30 Europe/Berlin] rest server in handle_get_day, day = 8
+[09-May-2016 01:14:30 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/products/1
+[09-May-2016 01:14:30 Europe/Berlin] request at case product
+[09-May-2016 01:14:31 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:14:31 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/products/
+[09-May-2016 01:14:31 Europe/Berlin] request at case product
+[09-May-2016 01:14:31 Europe/Berlin] Server saw post data{"productID":"1","categoryID":"1","productCode":"strat9","productName":"Fender Stratocaster","description":"The Fender Stratocaster is the electric guitar design that changed the world. New features include a tinted neck, parchment pickguard and control knobs, and a '70s-style logo. Includes select alder body, 21-fret maple neck with your choice of a rosewood or maple fretboard, 3 single-coil pickups, vintage-style tremolo, and die-cast tuning keys. This guitar features a thicker bridge block for increased sustain and a more stable point of contact with the strings. At this low price, why play anything but the real thing?\r\n\r\nFeatures:\r\n\r\n* New features:\r\n* Thicker bridge block\r\n* 3-ply parchment pick guard\r\n* Tinted neck","listPrice":"699.00","discountPercent":"30.00","dateAdded":"2009-10-30 09:32:40","categoryName":"Guitars"}
+[09-May-2016 01:14:31 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'strat9' for key 'productCode'
+[09-May-2016 01:16:22 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:16:22 Europe/Berlin] request at case day
+[09-May-2016 01:16:22 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:16:22 Europe/Berlin] Server saw POSTed day = 2
+[09-May-2016 01:16:23 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:16:23 Europe/Berlin] request at case orders
+[09-May-2016 01:16:23 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":60}]}
+[09-May-2016 01:16:23 Europe/Berlin] today2
+[09-May-2016 01:16:23 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:16:23 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:16:23 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/21
+[09-May-2016 01:17:15 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:17:15 Europe/Berlin] request at case day
+[09-May-2016 01:17:15 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:17:15 Europe/Berlin] Server saw POSTed day = 3
+[09-May-2016 01:17:15 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/21
+[09-May-2016 01:17:15 Europe/Berlin] request at case orders
+[09-May-2016 01:17:15 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:17:15 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:17:15 Europe/Berlin] request at case orders
+[09-May-2016 01:17:15 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":40},{"productID":12,"quantity":40}]}
+[09-May-2016 01:17:15 Europe/Berlin] today3
+[09-May-2016 01:17:15 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:17:15 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 157
+[09-May-2016 01:17:15 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/22
+[09-May-2016 01:18:26 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:18:26 Europe/Berlin] request at case day
+[09-May-2016 01:18:26 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:18:26 Europe/Berlin] Server saw POSTed day = 4
+[09-May-2016 01:18:26 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/21
+[09-May-2016 01:18:26 Europe/Berlin] request at case orders
+[09-May-2016 01:18:26 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:18:26 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/22
+[09-May-2016 01:18:26 Europe/Berlin] request at case orders
+[09-May-2016 01:18:26 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:18:26 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:18:26 Europe/Berlin] request at case orders
+[09-May-2016 01:18:26 Europe/Berlin] Server saw post data[{"customerID":"1","orderID":"22","delivered":false},[]]
+[09-May-2016 01:18:26 Europe/Berlin] today4
+[09-May-2016 01:18:26 Europe/Berlin] PHP Notice:  Undefined index: customerID in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 156
+[09-May-2016 01:18:26 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[09-May-2016 01:24:35 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:24:35 Europe/Berlin] request at case day
+[09-May-2016 01:24:35 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:24:35 Europe/Berlin] Server saw POSTed day = 8
+[09-May-2016 01:24:35 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/day/
+[09-May-2016 01:24:35 Europe/Berlin] request at case day
+[09-May-2016 01:24:35 Europe/Berlin] rest server in handle_get_day, day = 8
+[09-May-2016 01:24:35 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/products/1
+[09-May-2016 01:24:35 Europe/Berlin] request at case product
+[09-May-2016 01:24:35 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:24:35 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/products/
+[09-May-2016 01:24:35 Europe/Berlin] request at case product
+[09-May-2016 01:24:35 Europe/Berlin] Server saw post data{"productID":"1","categoryID":"1","productCode":"strat9","productName":"Fender Stratocaster","description":"The Fender Stratocaster is the electric guitar design that changed the world. New features include a tinted neck, parchment pickguard and control knobs, and a '70s-style logo. Includes select alder body, 21-fret maple neck with your choice of a rosewood or maple fretboard, 3 single-coil pickups, vintage-style tremolo, and die-cast tuning keys. This guitar features a thicker bridge block for increased sustain and a more stable point of contact with the strings. At this low price, why play anything but the real thing?\r\n\r\nFeatures:\r\n\r\n* New features:\r\n* Thicker bridge block\r\n* 3-ply parchment pick guard\r\n* Tinted neck","listPrice":"699.00","discountPercent":"30.00","dateAdded":"2009-10-30 09:32:40","categoryName":"Guitars"}
+[09-May-2016 01:24:35 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'strat9' for key 'productCode'
+[09-May-2016 01:31:15 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:31:15 Europe/Berlin] request at case day
+[09-May-2016 01:31:15 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:31:15 Europe/Berlin] Server saw POSTed day = 2
+[09-May-2016 01:31:15 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:31:15 Europe/Berlin] request at case orders
+[09-May-2016 01:31:15 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":60}]}
+[09-May-2016 01:31:15 Europe/Berlin] today2
+[09-May-2016 01:31:15 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 164
+[09-May-2016 01:31:15 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 164
+[09-May-2016 01:31:15 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/23
+[09-May-2016 01:31:17 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:31:17 Europe/Berlin] request at case day
+[09-May-2016 01:31:17 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:31:17 Europe/Berlin] Server saw POSTed day = 3
+[09-May-2016 01:31:17 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/23
+[09-May-2016 01:31:17 Europe/Berlin] request at case orders
+[09-May-2016 01:31:17 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:31:17 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:31:17 Europe/Berlin] request at case orders
+[09-May-2016 01:31:17 Europe/Berlin] Server saw post data[{"customerID":"1","orderID":"23","delivered":false},[]]
+[09-May-2016 01:31:17 Europe/Berlin] today3
+[09-May-2016 01:31:17 Europe/Berlin] PHP Notice:  Undefined index: customerID in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 163
+[09-May-2016 01:31:17 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[09-May-2016 01:31:35 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:31:35 Europe/Berlin] request at case day
+[09-May-2016 01:31:35 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:31:35 Europe/Berlin] Server saw POSTed day = 4
+[09-May-2016 01:31:35 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/23
+[09-May-2016 01:31:35 Europe/Berlin] request at case orders
+[09-May-2016 01:31:35 Europe/Berlin] hi from handle_get_product
+[09-May-2016 01:31:35 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:31:35 Europe/Berlin] request at case orders
+[09-May-2016 01:31:35 Europe/Berlin] Server saw post data[{"customerID":"1","orderID":"23","delivered":true},[]]
+[09-May-2016 01:31:35 Europe/Berlin] today4
+[09-May-2016 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: customerID in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 163
+[09-May-2016 01:31:35 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[09-May-2016 01:31:58 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:31:58 Europe/Berlin] request at case day
+[09-May-2016 01:31:58 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:31:58 Europe/Berlin] Server saw POSTed day = 5
+[09-May-2016 01:31:58 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:31:58 Europe/Berlin] request at case orders
+[09-May-2016 01:31:58 Europe/Berlin] Server saw post datanull
+[09-May-2016 01:31:58 Europe/Berlin] today5
+[09-May-2016 01:31:58 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[09-May-2016 01:32:03 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:32:03 Europe/Berlin] request at case day
+[09-May-2016 01:32:03 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:32:03 Europe/Berlin] Server saw POSTed day = 6
+[09-May-2016 01:32:03 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:32:03 Europe/Berlin] request at case orders
+[09-May-2016 01:32:03 Europe/Berlin] Server saw post datanull
+[09-May-2016 01:32:03 Europe/Berlin] today6
+[09-May-2016 01:32:03 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[09-May-2016 01:32:09 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:32:09 Europe/Berlin] request at case day
+[09-May-2016 01:32:09 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:32:09 Europe/Berlin] Server saw POSTed day = 7
+[09-May-2016 01:32:09 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:32:09 Europe/Berlin] request at case orders
+[09-May-2016 01:32:09 Europe/Berlin] Server saw post datanull
+[09-May-2016 01:32:09 Europe/Berlin] today7
+[09-May-2016 01:32:09 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[09-May-2016 01:32:29 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[09-May-2016 01:32:29 Europe/Berlin] request at case day
+[09-May-2016 01:32:29 Europe/Berlin] rest server in handle_post_day
+[09-May-2016 01:32:29 Europe/Berlin] Server saw POSTed day = 8
+[09-May-2016 01:32:29 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[09-May-2016 01:32:29 Europe/Berlin] request at case orders
+[09-May-2016 01:32:29 Europe/Berlin] Server saw post datanull
+[09-May-2016 01:32:29 Europe/Berlin] today8
+[09-May-2016 01:32:29 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[12-May-2016 17:43:58 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[12-May-2016 17:43:58 Europe/Berlin] request at case day
+[12-May-2016 17:43:58 Europe/Berlin] rest server in handle_post_day
+[12-May-2016 17:43:58 Europe/Berlin] Server saw POSTed day = 11
+[12-May-2016 17:43:58 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[12-May-2016 17:43:58 Europe/Berlin] request at case orders
+[12-May-2016 17:43:58 Europe/Berlin] Server saw post datanull
+[12-May-2016 17:43:58 Europe/Berlin] today11
+[12-May-2016 17:43:58 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'customerID' cannot be null
+[12-May-2016 17:46:28 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[12-May-2016 17:46:28 Europe/Berlin] request at case day
+[12-May-2016 17:46:28 Europe/Berlin] rest server in handle_post_day
+[12-May-2016 17:46:28 Europe/Berlin] Server saw POSTed day = 12
+[12-May-2016 17:46:30 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[12-May-2016 17:46:30 Europe/Berlin] request at case day
+[12-May-2016 17:46:30 Europe/Berlin] rest server in handle_post_day
+[12-May-2016 17:46:30 Europe/Berlin] Server saw POSTed day = 13
+[12-May-2016 17:47:59 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[12-May-2016 17:47:59 Europe/Berlin] request at case day
+[12-May-2016 17:47:59 Europe/Berlin] rest server in handle_post_day
+[12-May-2016 17:47:59 Europe/Berlin] Server saw POSTed day = 2
+[12-May-2016 17:47:59 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[12-May-2016 17:47:59 Europe/Berlin] request at case orders
+[12-May-2016 17:47:59 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":60}]}
+[12-May-2016 17:47:59 Europe/Berlin] today2
+[12-May-2016 17:47:59 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 165
+[12-May-2016 17:47:59 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 165
+[12-May-2016 17:47:59 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/24
+[12-May-2016 17:48:02 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[12-May-2016 17:48:02 Europe/Berlin] request at case day
+[12-May-2016 17:48:02 Europe/Berlin] rest server in handle_post_day
+[12-May-2016 17:48:02 Europe/Berlin] Server saw POSTed day = 3
+[12-May-2016 17:48:02 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/24
+[12-May-2016 17:48:02 Europe/Berlin] request at case orders
+[12-May-2016 17:48:02 Europe/Berlin] hi from handle_get_product
+[12-May-2016 17:58:17 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[12-May-2016 17:58:17 Europe/Berlin] request at case day
+[12-May-2016 17:58:17 Europe/Berlin] rest server in handle_post_day
+[12-May-2016 17:58:17 Europe/Berlin] Server saw POSTed day = 4
+[12-May-2016 17:58:17 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/24
+[12-May-2016 17:58:17 Europe/Berlin] request at case orders
+[12-May-2016 17:58:17 Europe/Berlin] hi from handle_get_product
+[12-May-2016 17:58:20 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[12-May-2016 17:58:20 Europe/Berlin] request at case day
+[12-May-2016 17:58:20 Europe/Berlin] rest server in handle_post_day
+[12-May-2016 17:58:20 Europe/Berlin] Server saw POSTed day = 5
+[13-May-2016 04:37:58 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[13-May-2016 04:37:58 Europe/Berlin] request at case day
+[13-May-2016 04:37:58 Europe/Berlin] rest server in handle_post_day
+[13-May-2016 04:37:58 Europe/Berlin] Server saw POSTed day = 2
+[13-May-2016 04:37:58 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[13-May-2016 04:37:58 Europe/Berlin] request at case orders
+[13-May-2016 04:37:58 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":60}]}
+[13-May-2016 04:37:58 Europe/Berlin] today2
+[13-May-2016 04:37:58 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 165
+[13-May-2016 04:37:58 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 165
+[13-May-2016 04:37:58 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/25
+[13-May-2016 04:48:27 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[13-May-2016 04:48:27 Europe/Berlin] request at case day
+[13-May-2016 04:48:27 Europe/Berlin] rest server in handle_post_day
+[13-May-2016 04:48:27 Europe/Berlin] Server saw POSTed day = 
+[13-May-2016 04:48:27 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/day/
+[13-May-2016 04:48:27 Europe/Berlin] request at case day
+[13-May-2016 04:48:27 Europe/Berlin] rest server in handle_get_day, day = 0
+[13-May-2016 04:48:27 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/products/1
+[13-May-2016 04:48:27 Europe/Berlin] request at case product
+[13-May-2016 04:48:27 Europe/Berlin] hi from handle_get_product
+[13-May-2016 04:48:27 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/products/
+[13-May-2016 04:48:27 Europe/Berlin] request at case product
+[13-May-2016 04:48:27 Europe/Berlin] Server saw post data{"productID":"1","categoryID":"1","productCode":"strat9","productName":"Fender Stratocaster","description":"The Fender Stratocaster is the electric guitar design that changed the world. New features include a tinted neck, parchment pickguard and control knobs, and a '70s-style logo. Includes select alder body, 21-fret maple neck with your choice of a rosewood or maple fretboard, 3 single-coil pickups, vintage-style tremolo, and die-cast tuning keys. This guitar features a thicker bridge block for increased sustain and a more stable point of contact with the strings. At this low price, why play anything but the real thing?\r\n\r\nFeatures:\r\n\r\n* New features:\r\n* Thicker bridge block\r\n* 3-ply parchment pick guard\r\n* Tinted neck","listPrice":"699.00","discountPercent":"30.00","dateAdded":"2009-10-30 09:32:40","categoryName":"Guitars"}
+[13-May-2016 04:48:28 Europe/Berlin] Error in webapp , code 400: Insert failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'strat9' for key 'productCode'
+[13-May-2016 19:37:16 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[13-May-2016 19:37:16 Europe/Berlin] request at case day
+[13-May-2016 19:37:16 Europe/Berlin] rest server in handle_post_day
+[13-May-2016 19:37:16 Europe/Berlin] Server saw POSTed day = 2
+[13-May-2016 19:37:16 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[13-May-2016 19:37:16 Europe/Berlin] request at case orders
+[13-May-2016 19:37:16 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":60}]}
+[13-May-2016 19:37:16 Europe/Berlin] today2
+[13-May-2016 19:37:16 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 165
+[13-May-2016 19:37:16 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 165
+[13-May-2016 19:37:16 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/26
+[13-May-2016 19:37:21 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[13-May-2016 19:37:21 Europe/Berlin] request at case day
+[13-May-2016 19:37:21 Europe/Berlin] rest server in handle_post_day
+[13-May-2016 19:37:21 Europe/Berlin] Server saw POSTed day = 3
+[13-May-2016 19:37:21 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/26
+[13-May-2016 19:37:21 Europe/Berlin] request at case orders
+[13-May-2016 19:37:21 Europe/Berlin] hi from handle_get_product
+[16-May-2016 23:25:14 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[16-May-2016 23:25:14 Europe/Berlin] request at case day
+[16-May-2016 23:25:14 Europe/Berlin] rest server in handle_post_day
+[16-May-2016 23:25:14 Europe/Berlin] Server saw POSTed day = 2
+[16-May-2016 23:25:15 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[16-May-2016 23:25:15 Europe/Berlin] request at case orders
+[16-May-2016 23:25:15 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":60}]}
+[16-May-2016 23:25:15 Europe/Berlin] today2
+[16-May-2016 23:25:15 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 165
+[16-May-2016 23:25:15 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 165
+[16-May-2016 23:25:15 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/27
+[16-May-2016 23:25:24 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[16-May-2016 23:25:24 Europe/Berlin] request at case day
+[16-May-2016 23:25:24 Europe/Berlin] rest server in handle_post_day
+[16-May-2016 23:25:24 Europe/Berlin] Server saw POSTed day = 2
+[16-May-2016 23:25:24 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/orders/
+[16-May-2016 23:25:24 Europe/Berlin] request at case orders
+[16-May-2016 23:25:24 Europe/Berlin] Server saw post data{"customerID":1,"0":[{"productID":11,"quantity":80},{"productID":12,"quantity":60}]}
+[16-May-2016 23:25:24 Europe/Berlin] today2
+[16-May-2016 23:25:24 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 165
+[16-May-2016 23:25:24 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cs637\arshita\proj2\proj2_server\rest\index.php on line 165
+[16-May-2016 23:25:24 Europe/Berlin] hi from handle_post_product, header = Location: http://localhost/cs637/arshita/proj2/proj2_server/rest/orders/28
+[16-May-2016 23:25:27 Europe/Berlin] starting REST server request, method=POST, uri = .../rest/day/
+[16-May-2016 23:25:27 Europe/Berlin] request at case day
+[16-May-2016 23:25:27 Europe/Berlin] rest server in handle_post_day
+[16-May-2016 23:25:27 Europe/Berlin] Server saw POSTed day = 3
+[16-May-2016 23:25:27 Europe/Berlin] starting REST server request, method=GET, uri = .../rest/orders/28
+[16-May-2016 23:25:27 Europe/Berlin] request at case orders
+[16-May-2016 23:25:27 Europe/Berlin] hi from handle_get_product

@@ -1,0 +1,7 @@
+README for pizza1  solution
+Thanks to Indus S. for most of the code in this solution.
+
+The student order form has method = GET so we can see the parameters. 
+POST is more common, to hide the parameters, and indicate that we
+are changing a resource on the server.
+
